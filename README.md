@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GCell-droid  
 - 👀 I’m interested in Web Development and CP  
 - 🌱 I’m currently learning Full Stack  
-- 💞️ I’m looking to collaborate on some MERN Stack projects  
+- ✨ I’m looking to collaborate on some MERN Stack projects  
 - 📫 Contact:  
   - [LinkedIn](https://www.linkedin.com/in/nitesh-parihar-530415171/)  
   - Email: [niteshparihar104@gmail.com](mailto:niteshparihar104@gmail.com)  
