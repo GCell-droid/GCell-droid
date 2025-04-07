@@ -1,12 +1,12 @@
 # 👋 Hey there! I'm Nitesh Parihar (aka @GCell-droid)
 
-### 🚀 Aspiring Full Stack Developer | 💻 Competitive Programmer | 🌐 Open Source Enthusiast
+### 🚀 Aspiring Full Stack Developer | 💻 Competitive Programmer 
 
 ---
 
 <img align="right" width="350" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" alt="MERN Stack" />
 
-- 🔭 Currently exploring the **MERN Stack** in-depth  
+- 🔭 Currently exploring the **Machine Learning** in-depth  
 - 👨‍💻 Actively building full-stack apps & real-time systems  
 - 🧠 Passionate about solving **real-world problems** with code  
 - 🕹️ Love participating in **Competitive Programming**  
