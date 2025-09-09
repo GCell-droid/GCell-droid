@@ -18,8 +18,8 @@
 ## 🧰 Tech Stack & Tools
 
 ```yaml
-Frontend:   React.js | Vite | Redux | TailwindCSS | DaisyUI
-Backend:    Node.js | Express | MongoDB | Mongoose
+Frontend:   Next.js| React.js | Vite | Redux | TailwindCSS | DaisyUI
+Backend:    Node.js | Express | Nest.js | MongoDB | Mongoose
 Auth:       JWT | bcrypt | OAuth
 Real-Time:  Socket.IO | WebSockets
 Deployment: AWS EC2 | NGINX | PM2
